@@ -286,6 +286,7 @@ h1 {
     background-color: #82B0B0;
     width: auto;
     min-height: auto;
+    padding: 20px;
     margin: 0;
     -webkit-transition: -webkit-transform 0.2s ease;
     transition: -webkit-transform 0.2s ease;
